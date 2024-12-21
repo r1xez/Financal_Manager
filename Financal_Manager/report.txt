@@ -1,0 +1,4 @@
+Expenses for the last day:
+Category: iphone, Amount: 62000 UAH, Date: 2024-12-21, Wallet/Card: slavik
+Category: meat, Amount: 3000 UAH, Date: 2024-12-21, Wallet/Card: slavik
+Category: headphones, Amount: 12000 UAH, Date: 2024-12-21, Wallet/Card: slavik
